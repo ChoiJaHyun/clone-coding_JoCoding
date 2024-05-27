@@ -1,0 +1,64 @@
+.main-header {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 610px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white;
+}
+
+.navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.wrapper {
+  height: "1140px";
+  width: "598.85px";
+  font: "14px 'Open Sans', sans-serif";
+  padding: "90px 0px 130px";
+  background-color: pink;
+  text-align: center;
+}
+
+.wrapper .top-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.wrapper .title {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.wrapper .sub-title {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.btn-submit {
+  background-color: #f8f8f8;
+  border: none;
+  color: #333;
+  font-size: 14px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn-submit:hover {
+  background-color: #ddd;
+}
