@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
 import Feature from "./components/Feature";
+import SubscribeNow from "./components/SubscribeNow";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -12,9 +13,8 @@ const App = () => {
       <Header />
       <CtaInfo />
       <Feature />
+      <SubscribeNow />
       <Portfolio />
-      <Contact />
-      <Footer />
     </div>
   );
 };

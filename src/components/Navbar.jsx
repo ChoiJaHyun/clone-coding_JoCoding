@@ -6,7 +6,7 @@ const Navbar = () => {
   const navbarStyle = {
     width: "1212px",
     height: "120px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
     padding: "40px 0",
@@ -27,7 +27,7 @@ const Navbar = () => {
     justifyContent: "flex-end",
     width: "399.02px",
     height: "40px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
   };
@@ -55,7 +55,7 @@ const Navbar = () => {
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
     padding: "10px 20px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     textDecoration: "none",
   };
 
@@ -66,7 +66,7 @@ const Navbar = () => {
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
     padding: "10px 20px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     textDecoration: "none",
   };
 
@@ -77,7 +77,7 @@ const Navbar = () => {
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
     padding: "10px 20px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     textDecoration: "none",
   };
 
@@ -88,7 +88,7 @@ const Navbar = () => {
     fontFamily: "Open Sans, sans-serif",
     fontSize: "14px",
     padding: "10px 20px",
-    backgroundColor: "transparent", // 배경색 제거
+    backgroundColor: "transparent",
     textDecoration: "none",
   };
 
